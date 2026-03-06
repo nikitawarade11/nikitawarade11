@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Data Analyst fresher currently pursuing a Data Analyst course, with hands-on skills in SQL, Excel, Power BI, and Python. I have worked on an academic AI-based diagnostic project and built interactive Excel dashboards to analyze business data. I am passionate about transforming raw data into actionable insights and eager to grow as a data analyst in a real-world environment.
+Entry Level Data Analyst with hands-on experience in Python, SQL, and data visualization. Skilled in data cleaning, analysis, and creating 
+dashboards to generate meaningful business insights. Experienced working with Pandas, Matplotlib, and Power BI to support data-driven decision 
+making.
 
 
 ## 🌐 Socials:
